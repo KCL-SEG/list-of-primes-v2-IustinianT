@@ -25,5 +25,3 @@ def primes(number_of_primes):
         current_val +=1
 
     return list
-
-print(primes(-2))
